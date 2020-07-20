@@ -1,0 +1,8 @@
+*.jpg
+*.tif
+*.swp
+DATA/*
+ERA5/*
+mat/*
+ymd_*
+
